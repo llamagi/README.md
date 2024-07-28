@@ -1,2 +1,3 @@
-# README.md
-lmagi local model augmented generative intelligence
+# language model Augmented Generative Intelligence
+
+![lmAGI](./gfx/llamagi.jpg)
